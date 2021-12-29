@@ -34,6 +34,6 @@ Open any image in a separate image viewer with zooming and sharing functionality
 
 ## Concept design:
 
-|Screen 1|screen2|
+|Screen #1|Screen #2|
 |-|-|
 |<img width="339" alt="screen1" src="https://user-images.githubusercontent.com/10261166/147656719-a9500c6e-685b-4b25-9878-34e76c8c962d.png">|<img width="356" alt="screen2" src="https://user-images.githubusercontent.com/10261166/147656761-f9158a35-4ac9-4a75-a8ed-3cf3f6b304eb.png">|
